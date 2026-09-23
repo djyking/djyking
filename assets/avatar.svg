@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="t d"><title id="t">He Yu illustrated avatar</title><desc id="d">Original male cartoon avatar with black hair and glasses on a midnight teal background.</desc><defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#09131f"/><stop offset=".55" stop-color="#111b30"/><stop offset="1" stop-color="#152a3b"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182b3c"/><stop offset="1" stop-color="#0e1a2b"/></linearGradient>
+  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#6ee7d0"/><stop offset=".56" stop-color="#64bfe3"/><stop offset="1" stop-color="#ae9eea"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b2fff0" stop-opacity=".17"/><stop offset="1" stop-color="#5cc4db" stop-opacity=".025"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#56ddc7" stop-opacity=".13"/><stop offset="1" stop-color="#56ddc7" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#94bbd1" stroke-opacity=".045"/></pattern>
+<clipPath id="c"><rect width="512" height="512" rx="96"/></clipPath><linearGradient id="halo"><stop stop-color="#6dcebf"/><stop offset="1" stop-color="#9294ce"/></linearGradient></defs><g clip-path="url(#c)"><rect width="512" height="512" fill="url(#bg)"/><rect width="512" height="512" fill="url(#grid)"/><circle cx="256" cy="265" r="189" fill="#18333e"/><circle cx="256" cy="265" r="188" fill="none" stroke="url(#halo)" stroke-width="2"/><circle cx="256" cy="265" r="207" fill="none" stroke="#5a928d" stroke-opacity=".2" stroke-dasharray="3 10"/><g transform="translate(26 35) scale(2)">
+      <path d="M34 218Q30 173 62 159L103 146 143 148Q191 156 203 212L208 258H26Z" fill="#274b59"/>
+      <path d="M67 165Q108 188 156 162L175 253H42Z" fill="#315f6c"/>
+      <path d="M93 134V163Q111 178 130 162V130" fill="#ce967b"/>
+      <path d="M75 72Q74 38 113 36Q155 36 155 77L148 120Q137 147 114 148Q89 146 78 118Z" fill="#edb999"/>
+      <path d="M74 87Q60 78 65 109Q68 120 78 117M155 86Q168 78 162 108Q160 119 151 116" fill="#dca788"/>
+      <path d="M70 91Q60 59 75 37L88 35 91 21 111 25Q142 15 158 48Q168 62 155 93L148 64Q125 69 102 51Q96 72 78 76L77 96Z" fill="#101824"/>
+      <path d="M78 45Q95 29 125 33" stroke="#354353" stroke-width="5" stroke-linecap="round" fill="none"/>
+      <path d="M87 80L105 79M124 79L143 80" stroke="#553b34" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="78" y="85" width="33" height="24" rx="7" fill="#78dddc" fill-opacity=".09" stroke="#162635" stroke-width="4"/>
+      <rect x="119" y="85" width="33" height="24" rx="7" fill="#78dddc" fill-opacity=".09" stroke="#162635" stroke-width="4"/>
+      <path d="M110 92Q115 88 120 92M77 88L71 85M154 88L159 85" fill="none" stroke="#162635" stroke-width="3"/>
+      <path d="M83 90L90 90M124 90L132 90" stroke="#d4f8ed" stroke-width="2" stroke-linecap="round" opacity=".8"/>
+      <circle cx="98" cy="95" r="2.5" fill="#26343e"/><circle cx="132" cy="95" r="2.5" fill="#26343e"/>
+      <path d="M116 100L113 116 121 116" fill="none" stroke="#c48a73" stroke-width="2" stroke-linecap="round"/>
+      <path d="M105 127Q116 132 127 126" fill="none" stroke="#99685e" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M67 163L95 175 85 185 62 170M132 174L156 161 166 171 144 186" fill="#1c414f"/>
+      <path d="M101 186V249M130 187V249" stroke="#75969b" stroke-width="2" opacity=".5"/>
+      <circle cx="101" cy="239" r="2" fill="#89c5bb"/><circle cx="130" cy="239" r="2" fill="#89c5bb"/>
+      <path d="M46 207L59 242M185 207L175 239" stroke="#1c424f" stroke-width="3" fill="none"/>
+    </g><path d="M71 123V105H89M423 392H441V374" stroke="#82c6bc" stroke-width="4" fill="none"/><path d="M398 96V116M388 106H408" stroke="#aa9fdf" stroke-width="3" stroke-linecap="round"/><circle cx="78" cy="354" r="5" fill="#d5bd8e"/><circle cx="413" cy="337" r="4" fill="#82c6bc"/></g></svg>
