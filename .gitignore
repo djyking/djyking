@@ -1,0 +1,4 @@
+assets/.preview/
+__pycache__/
+*.log
+publish-manifest.json
