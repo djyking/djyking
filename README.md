@@ -10,9 +10,7 @@
 
 ### Hello, I'm He Yu.
 
-Java 企业平台研发出身，关注复杂业务中的模块设计、公共能力与工程交付。正在把这些经验延伸到 **AI 应用、Agent 工具与工作流**，也在探索 **Python 自动化与数据研究**。
-
-I build enterprise platforms and explore how AI and data can make useful software. My foundation is Java engineering; my current interests are AI applications, Python automation and data research.
+Java 企业平台研发出身，关注复杂业务中的模块设计、公共能力与工程交付。当前围绕 **OpsAgent 智能运维、Agent 应用平台和 A 股量化交易平台** 持续实践，重点解决工具调用与工作流、执行可靠性、数据处理及交易规则等工程问题。
 
 <p align="center">
   <img src="assets/focus-platforms.svg" width="31%" alt="Platform engineering" />
@@ -30,6 +28,13 @@ I build enterprise platforms and explore how AI and data can make useful softwar
 [打开在线体验 ↗](https://opsagent.cloud/) · [查看源码 ↗](https://github.com/djyking/opsagent)
 
 <sub>在线体验为已完成的旧版，通过页面验证码进入；公开源码正在进行 Agent harness 改造，与在线演示并非同一版本。 / The online demo is the earlier completed version. The source is being reworked around an Agent harness.</sub>
+
+**A 股量化交易平台 · 行情分析与交易规则实践**  
+基于 **Python + Vue 3 + TypeScript** 开发，覆盖日线行情分析、技术指标与规则评分、交易规则校验及 SQLite 持久化账本，提供行情、委托和研究历史看板。
+
+重点实现 T+1、费用与资金冻结、请求幂等和事务一致性，预留统一券商适配接口。当前用于行情研究与离线交易规则验证。
+
+[查看项目与源码 ↗](https://github.com/djyking/ashare-quant-platform)
 
 ### On my workbench / 我的工作台
 
